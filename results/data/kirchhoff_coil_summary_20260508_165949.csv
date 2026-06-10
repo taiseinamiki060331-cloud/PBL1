@@ -1,0 +1,2 @@
+﻿Frequency [Hz],n_repeat,VL_rms_fft_mean [V],VL_rms_fft_std [V],VL_phase_mean [deg],VL_phase_std [deg],VL_real_mean [V],VL_imag_mean [V],VL_rms_scope_mean [V],VL_rms_scope_std [V],M_mean,M_std,dt_mean [s],dt_std [s],Mdt_mean [s]
+500,5,0.15042675056869068,0.0005850458120325895,-66.63477630746706,0.24565994825988172,0.0596578617673497,-0.1380910815947318,0.0,0.0,1000.0,0.0,1.9999999999998318e-06,0.0,0.0019999999999998318

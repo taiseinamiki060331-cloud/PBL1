@@ -1,0 +1,28 @@
+{
+    "timestamp": "2026-06-10T20:34:06",
+    "title": "5 キルヒホッフの法則(コイル)",
+    "lines": [
+        "--- Coil measurement summary ---",
+        "Frequency = 500 Hz",
+        "Δt = 4.000000000e-06 ± 0.000000000e+00 s",
+        "M = 2500.000 ± 0.000",
+        "MΔt = 1.000000000e-02 s",
+        "VL_rms by FFT = 0.235801 ± 0.000516 V",
+        "VL_phase by FFT = 154.738 ± 0.205 deg",
+        "VL_rms by scope PK2PK = 0.000000 ± 0.000000 V"
+    ],
+    "values": {
+        "frequency_Hz": 500.0,
+        "dt_s": 4e-06,
+        "dt_s_std": 0.0,
+        "M": 2500.0,
+        "M_std": 0.0,
+        "Mdt_s": 0.01,
+        "VL_rms_fft_V": 0.2358014506357757,
+        "VL_rms_fft_std_V": 0.0005157642489054492,
+        "VL_phase_deg_fft": 154.73795897950518,
+        "VL_phase_deg_fft_std": 0.20540571104039793,
+        "VL_rms_scope_V": 0.0,
+        "VL_rms_scope_std_V": 0.0
+    }
+}

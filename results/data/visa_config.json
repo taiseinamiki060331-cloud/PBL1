@@ -1,0 +1,6 @@
+{
+    "fg": "ASRL6::INSTR",
+    "dmm": "ASRL5::INSTR",
+    "scope": "USB0::0x0699::0x0368::C012938::INSTR",
+    "timestamp": "2026-06-10T19:44:33"
+}

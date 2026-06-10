@@ -1,0 +1,2 @@
+﻿stage,Frequency [Hz],Vrms_mean [V],Vrms_std [V],Irms_mean [A],Irms_std [A],Z_mean [Ohm],Z_std [Ohm]
+coarse,100.0,0.7125939636789699,0.0,0.002492029638,7.386684615321007e-06,285.9512426787451,0.8474887760426689

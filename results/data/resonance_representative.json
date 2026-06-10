@@ -1,0 +1,20 @@
+{
+    "timestamp": "2026-06-10T19:07:11",
+    "title": "7 共振現象",
+    "lines": [
+        "Final minimum impedance point",
+        "f_min = 7650604.71005 Hz",
+        "Z_min = 131.03074 Ω",
+        "coarse_f_min = 7677077.39071 Hz",
+        "coarse_Z_min = 132.07528 Ω"
+    ],
+    "values": {
+        "f_min_Hz": 7650604.710053209,
+        "Z_min_ohm": 131.0307444314654,
+        "coarse_f_min_Hz": 7677077.390710833,
+        "coarse_Z_min_ohm": 132.0752750053538,
+        "fine_f_start_Hz": 6909369.651639749,
+        "fine_f_stop_Hz": 8444785.129781917,
+        "fine_points": 30
+    }
+}

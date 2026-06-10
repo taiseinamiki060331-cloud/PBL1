@@ -1,0 +1,35 @@
+{
+    "timestamp": "2026-06-10T20:35:50",
+    "title": "6 キルヒホッフの法則(ベクトル図作成)",
+    "lines": [
+        "Frequency = 500.0 Hz",
+        "R_THEORY = 56.0 Ω",
+        "L_THEORY = 0.0028 H",
+        "C_THEORY = 4.7e-06 F",
+        "I_rms used for theory = 0.017209 A",
+        "Measured VR: RMS = 0.963684 V, phase = -0.000 deg",
+        "Measured VL: RMS = 0.235801 V, phase = 38.316 deg",
+        "Measured VC: RMS = 1.120155 V, phase = -88.500 deg",
+        "Measured VE = VR + VL + VC: RMS = 1.528261 V, phase = -39.572 deg"
+    ],
+    "values": {
+        "frequency_Hz": 500.0,
+        "I_rms_A": 0.0172086489810502,
+        "VR_meas_rms_V": 0.9636843429388111,
+        "VR_meas_phase_deg": -9.90123385764751e-15,
+        "VL_meas_rms_V": 0.2358014506357757,
+        "VL_meas_phase_deg": 38.316437724657014,
+        "VC_meas_rms_V": 1.1201545731777354,
+        "VC_meas_phase_deg": -88.49967797439486,
+        "VE_meas_rms_V": 1.5282605762328334,
+        "VE_meas_phase_deg": -39.5719173280058,
+        "VR_theory_rms_V": 0.9636843429388111,
+        "VR_theory_phase_deg": 0.0,
+        "VL_theory_rms_V": 0.15137518260780378,
+        "VL_theory_phase_deg": 90.0,
+        "VC_theory_rms_V": 1.1654644890499777,
+        "VC_theory_phase_deg": -90.0,
+        "VE_theory_rms_V": 1.3989512622910696,
+        "VE_theory_phase_deg": -46.45990753237199
+    }
+}
